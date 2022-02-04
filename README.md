@@ -22,6 +22,7 @@ To run the script follow the below steps:
 
 4. For each product, for which you would like to scrap reivews, enter its id in the text file product.txt. Each product id must be in a newline. You can find the product id
 from it's amazon link. For example for the following amazon product-link it's id is B096BKVWZZ
+	
 	https://www.amazon.com/Samsung-Electronics-Smartwatch-Detection-Bluetooth/dp/B096BKVWZZ/ref=cm_cr_arp_d_product_top?ie=UTF8
 5. Run the review-scrapper.py script
 
