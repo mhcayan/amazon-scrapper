@@ -26,5 +26,5 @@ from it's amazon link. For example for the following amazon product-link it's id
 	https://www.amazon.com/Samsung-Electronics-Smartwatch-Detection-Bluetooth/dp/B096BKVWZZ/ref=cm_cr_arp_d_product_top?ie=UTF8
 5. Run the review-scrapper.py script
 
-6 The scrapped reviews will be in the file reviews.xlsx
+6. The scrapped reviews will be in the file reviews.xlsx
 	
